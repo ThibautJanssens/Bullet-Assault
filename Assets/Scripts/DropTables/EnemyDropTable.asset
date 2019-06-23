@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fdf76d17ca6ea7469770a89ea0cc4f8, type: 3}
+  m_Name: EnemyDropTable
+  m_EditorClassIdentifier: 
+  drops:
+  - weight: 60
+    item: {fileID: 1730231429013546, guid: f61ff6b3feb54694990143bae2988c4d, type: 2}
+  - weight: 80
+    item: {fileID: 0}
+  - weight: 50
+    item: {fileID: 1225775261853128, guid: b81f1243515fbdd45a40d68b43861cab, type: 2}
+  totalWeight: 190

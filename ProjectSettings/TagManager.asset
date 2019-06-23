@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Life
+  - Ammo
+  - Weapon
+  - Wall
+  - Floor
+  - Enemy
+  - Teleport
+  - EnemySpawn
+  - EnemySpawner
+  - EndText
+  - Cleaner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Foreground
+  - Bullet
+  - Background
+  - Ammo
+  - Weapon
+  - Teleport
+  - Life
+  - Cleaner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Foreground
+    uniqueID: 1713354025
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1216100711
+    locked: 0
+  - name: Weapon
+    uniqueID: 834944467
+    locked: 0
+  - name: Player
+    uniqueID: 2866017491
+    locked: 0

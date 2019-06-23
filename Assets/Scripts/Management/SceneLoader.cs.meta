@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e846b4a6d90c6ec4c8f4368065dd3044
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuName: {fileID: 11400000, guid: df47489818457dd4cb4749c395390a8c, type: 2}
+  - level1Name: {fileID: 11400000, guid: eaa7df17266107b4ca7b207ba3487627, type: 2}
+  - level2Name: {fileID: 11400000, guid: 5ac106d03233c754c9b2936620e1ba4e, type: 2}
+  - level3Name: {fileID: 11400000, guid: 12e12b045106c4e4fbf88af60b45aa9f, type: 2}
+  - gameOverName: {fileID: 11400000, guid: 29cb24911b2aa574792307e83febdf51, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
